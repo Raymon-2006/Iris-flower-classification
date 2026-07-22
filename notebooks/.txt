@@ -1,0 +1,22 @@
+Iris flower classification is the classic problem in the field of machine learning and pattern recognition.
+
+It involves the catagorization of iris flubber into different species based on their morphological features.
+
+The data set most commonly used is the iris data set.
+
+**Iris data set:**
+- It contains measurement of four features of the iris flower. They are:
+ 1) Sepal Length of iris flowers.
+ 2) Sepal width
+ 3) Petal Length
+ 4) Petal width
+
+The goal is to classify iris flowers into three species:
+ 1) Iris setosa
+ 2) IRIS VIRIGINICA
+ 3) IRIS VERSICOLOR
+
+ Each instance in the data set represents a specific iris flower and the species of each flower is known.
+
+
+ The task is to build a machine learning model that can learn from these features and accurately predict the species of iris flowers when given new measurements.
